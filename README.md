@@ -224,7 +224,7 @@ console.log("User deleted successfully!");
 ```js
 const { User } = require("./path/to/User"); // Import the User model
 
-await User.deleteMany(doc => doc.isAdmin === false);
+await User.deleteMany({ isAdmin: false });
 console.log("All non-admin users deleted!");
 ```
 

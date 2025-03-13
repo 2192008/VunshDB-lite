@@ -1,0 +1,32 @@
+{
+  "name": "vunshdb-lite",
+  "version": "1.0.1-alpha",
+  "description": "VunshDB is a lightweight, fast, and flexible NoSQL-like database system designed for easy data management and storage. With its simple and efficient file-based storage, VunshDB allows developers to seamlessly manage collections of data, easily perform updates, and handle complex data structures. Whether you're building a small project or need a fast database solution, VunshDB provides robust features with minimal setup, making it perfect for any Node.js application that requires simple, reliable storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"No tests yet!\\\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2192008/VunshDB-lite.git"
+  },
+  "keywords": [
+    "database",
+    "json",
+    "storage",
+    "data",
+    "management",
+    "NoSQL",
+    "VunshDB",
+    "file-based",
+    "database",
+    "key-value",
+    "store"
+  ],
+  "author": "Cloudology Development & hatebeingsobercereal on Discord (cloudologydevelopment@gmail.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/2192008/VunshDB-lite/issues"
+  },
+  "homepage": "https://github.com/2192008/VunshDB-lite#readme"
+}
